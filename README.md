@@ -1,4 +1,4 @@
-Разговор с Тишиной
+Разговор с Тишиной [(PDF)](https://github.com/creotiv/MyBooks/blob/main/razgovor-s-tishinoy.pdf) [(MD)](https://github.com/creotiv/MyBooks/blob/main/razgovor-s-tishinoy.md)
 
 Книга, написанная по мотивам многочасового разговора.
 
